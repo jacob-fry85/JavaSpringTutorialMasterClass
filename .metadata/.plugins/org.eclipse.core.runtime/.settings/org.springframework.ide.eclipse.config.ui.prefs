@@ -1,0 +1,17 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-autowired-annotation-demo/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-bean-factory-demo/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-bean-scope-demo/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage id\="com.springsource.sts.config.ui.editors.beans" index\="3" kind\="formPage" uri\="http\://www.springframework.org/schema/beans"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-bean-web-scope-demo/WebContent/WEB-INF/springScopeDemo-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-bean-web-scope-demo/WebContent/WEB-INF/webScopeDemo-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-cnamespace-demo/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-component-annotation-demo/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage id\="com.springsource.sts.config.ui.editors.context" index\="4" kind\="formPage" uri\="http\://www.springframework.org/schema/context"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-di-constructor-demo2/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-init-destroy-demo-1/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage id\="com.springsource.sts.config.ui.editors.beans" index\="3" kind\="formPage" uri\="http\://www.springframework.org/schema/beans"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-jdbc-template-demo-1/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-jdbc-template-demo-2/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-mvc-demo-1/WebContent/WEB-INF/dispatcher-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-mvc-demo-1/WebContent/WEB-INF/springMVCDemo-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-mvc-demo-1/WebContent/WEB-INF/views/dispatcher-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-pnamespace-demo/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-properties-xml-demo/src/main/resources/beans-cp.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

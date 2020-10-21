@@ -1,0 +1,6 @@
+package com.darwinjacob.config;
+
+@Configuration
+public class PropertyConfig {
+
+}

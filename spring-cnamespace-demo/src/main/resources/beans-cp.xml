@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:c="http://www.springframework.org/schema/c"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="myorg"
+		class="com.darwinjacob.springdemo.domain.Organization"
+		c:companyName="BMW" c:yearOfIncorporation="1920" c:address-ref="adress">
+	</bean>
+
+	<bean id="adress"
+		class="com.darwinjacob.springdemo.domain.Address" c:street="Jln Angkasa" c:city="Jakarta" c:zipCode="14250">
+	</bean>
+</beans>

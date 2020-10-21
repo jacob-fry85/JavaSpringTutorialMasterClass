@@ -1,0 +1,24 @@
+package com.darwinjacob.springdemo;
+
+public class DaoUtils {
+	
+	public static final String createOperation = "CREATE";
+	public static final String readOperation = "READ";
+	public static final String updateOperation = "UPDATE";
+	public static final String deleteOperation = "DELETE";
+	public static final String cleanOperation = "TRUNCATE";
+	
+	public static void printOrganization(List<Organization> orgs, String operation) {
+		System.out.println("\n*************** printing organizations after " + operation + " operation ***********");
+		for(Organization org : orgs) {
+			System.out.println(org);
+		}
+	}
+	
+	public static void printSuccessFailure(String operation, boolean param ) {
+		if(param)
+			System.out.println("\nOperation " + operation + " successful");
+		else
+			System.out.println("\nOperation " + operation + " failed");
+	}
+}

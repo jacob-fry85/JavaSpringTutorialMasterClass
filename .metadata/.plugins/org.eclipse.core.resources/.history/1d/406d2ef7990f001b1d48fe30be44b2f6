@@ -1,0 +1,5 @@
+package com.darwintirta.springdemo.config;
+
+public class WebMvcInitializer {
+
+}

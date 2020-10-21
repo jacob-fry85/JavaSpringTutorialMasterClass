@@ -1,0 +1,11 @@
+package com.darwinjacob.springdemo.domain;
+
+public class HumanResourceDept implements Department {
+
+	@Override
+	public String hiringStatus(int numberOfRecruitments) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

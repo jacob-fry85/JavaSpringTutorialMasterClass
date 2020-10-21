@@ -1,0 +1,11 @@
+package com.darwinjacob.config;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan(basePackages = "com.darwintirta.springdemo");
+@PropertySource(value = {"classpath:properties/organization.properties"})
+public class PropertyConfig {
+
+}
