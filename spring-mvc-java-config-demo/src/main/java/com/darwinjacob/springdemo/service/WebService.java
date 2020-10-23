@@ -14,8 +14,7 @@ public class WebService implements GenericWelcomeService {
 		myWelcomeMessage.add("Hello ");
 		myWelcomeMessage.add(name);
 		myWelcomeMessage.add(", welcome to the Spring course!");
-		
-		
+				
 		return myWelcomeMessage;
 	}
 }

@@ -16,7 +16,7 @@ public class WebController {
 	@Autowired
 	private GenericWelcomeService welcomeService;
 	
-	@RequestMapping("/")
+	@RequestMapping
 	// http://localhost:8080/spring-mvc-demo-1/
 	public String welcome(Model model) {
 		

@@ -1,7 +1,5 @@
-INDEX VERSION 1.4+D:\Java\Spring Projects\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3351466655.index
-2581494803.index
-3683467899.index
-3896668214.index
-794901514.index
-3328409947.index
+INDEX VERSION 1.4+D:\Java\JavaSpringTutorialMasterClass\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+752812475.index
+3597055842.index
+1149935795.index
+2790247647.index
