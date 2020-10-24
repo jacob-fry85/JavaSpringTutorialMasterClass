@@ -28,10 +28,8 @@
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.darwintirta.springdemo.dao.OrganizationDaoImpl"/>
     <fullyQualifiedTypeName name="com.darwintirta.springdemo.dao.OrganizationDao"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.darwinjacob.springdemo.DaoUtils"/>
-    <fullyQualifiedTypeName name="com.darwinjacob.springdemo.domain.Organization"/>
     <fullyQualifiedTypeName name="com.darwinjacob.springdemo.daoimpl.OrganizationRowMapper"/>
     <fullyQualifiedTypeName name="com.darwinjacob.springdemo.dao.OrganizationDao"/>
     <fullyQualifiedTypeName name="org.springframework.dao.DataAccessException"/>
@@ -51,4 +49,13 @@
     <fullyQualifiedTypeName name="javax.servlet.ServletRegistration.Dynamic"/>
     <fullyQualifiedTypeName name="org.springframework.web.servlet.DispatcherServlet"/>
     <fullyQualifiedTypeName name="org.springframework.web.WebApplicationInitializer"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter"/>
+    <fullyQualifiedTypeName name="com.darwinjacob.springdemo.domain.Organization"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.datasource.lookup.JndiDataSourceLookup"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.ViewControllerRegistry"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
 </qualifiedTypeNameHistroy>

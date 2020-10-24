@@ -1,5 +1,0 @@
-package com.darwintirta.springdemo.config;
-
-public class WebMvcConfig {
-
-}

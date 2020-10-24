@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Java\JavaSpringTutorialMasterClass\spring-logging-demo-1\src\main\java\com\darwinjacob\springdemo\DaoUtils.java"/>
 			<item value="D:\Java\Spring Projects\mavendemo"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -45,12 +46,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.darwintirta"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="spring-jdbc-template-demo-1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
