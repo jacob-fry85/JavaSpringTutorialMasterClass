@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
     <fullyQualifiedTypeName name="com.darwinjacob.service.WebService"/>
     <fullyQualifiedTypeName name="com.darwinjacob.springdemo.domain.Department"/>
@@ -56,6 +55,9 @@
     <fullyQualifiedTypeName name="javax.sql.DataSource"/>
     <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.ViewControllerRegistry"/>
-    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="com.darwinjacob.springdemo.interceptor.ExecutionTimerInterceptor"/>
+    <fullyQualifiedTypeName name="com.darwinjacob.springdemo.interceptor.HeaderInterceptor"/>
     <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
 </qualifiedTypeNameHistroy>
