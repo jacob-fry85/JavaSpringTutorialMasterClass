@@ -13,6 +13,8 @@ D:\Java\Spring Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\39
 \JavaSpringDemo\src
 D:\Java\JavaSpringTutorialMasterClass\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\752812475.index
 \spring-mvc-handler-mapping-adapter-demo\src\main\java
+D:\Java\JavaSpringTutorialMasterClass\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1378761468.index
+\spring-mvc-model-attribute-demo\src\main\java
 D:\Java\JavaSpringTutorialMasterClass\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2100384399.index
 \spring-mvc-request-mapping-param-demo\src\main\java
 D:\Java\JavaSpringTutorialMasterClass\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2724368354.index
