@@ -11,6 +11,9 @@
 			<item value="org.eclipse.jpt.jpa"/>
 			<item value="org.eclipse.jpt.jpa/org.eclipse.jpt.jpa.eclipselink"/>
 			<item value="org.eclipse.pde.PDE"/>
+			<item value="org.springframework.ide.eclipse.beans.ui.wizards.category"/>
+			<item value="org.eclipse.datatools.sql"/>
+			<item value="org.eclipse.pde.userAssistance"/>
 		</list>
 	</section>
 	<section name="InstallationDialogSettings">
